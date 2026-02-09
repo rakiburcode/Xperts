@@ -16,6 +16,7 @@ This project is created strictly for **learning and practice purposes** to impro
 - Build a professional-grade landing page layout
 - Practice semantic HTML structure
 - Improve CSS layout, spacing, and alignment skills
+- Practicing functions, DOM in JS
 - Understand real-world UI design patterns
 - Develop visually balanced sections and call-to-action areas
 
@@ -79,6 +80,7 @@ This project is created strictly for **learning and practice purposes** to impro
 |---------------|--------------------------------------|
 | HTML5         | Structure and content layout         |
 | CSS3          | Styling, layout, and responsiveness  |
+| JS            | Functions, DOM                       |
 | ImageKit      | Optimized image delivery             |
 | Google Fonts  | Enhanced and modern typography       |
 | Google Icons  | Optimized and consistent icons       |
