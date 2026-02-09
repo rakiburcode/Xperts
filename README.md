@@ -108,7 +108,7 @@ XPERTS/
 
 ## Live Preview
 
-🔗 **Live Demo:** *(https://rakiburcode.github.io/Xperts/)*
+🔗 **Live Demo:** *(https://codespecia.github.io/Xperts/)*
 
 This section provides a real-time preview of the project for quick access and demonstration.
 
