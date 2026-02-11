@@ -120,7 +120,7 @@ This section provides a real-time preview of the project for quick access and de
 
 Below are the visual previews of the project interface showcasing the layout, design, and sections.
 
-![Hero Section](https://ik.imagekit.io/rakiburcode/Xperts/hero_section_md.png?updatedAt=1767953182017)
+![Hero Section](https://ik.imagekit.io/codespecia/Xperts/hero_section_md.png)
 
 ---
 
